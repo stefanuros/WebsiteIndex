@@ -43,8 +43,8 @@
 
 	<div class="container my-4 p-5 text-center">
 		<h3>
-			My name is Stefan Urosevic. <br>Here are my experiments and projects that
-			I have worked on for fun. <br>This page is a work in progress
+			My name is Stefan Urosevic. <br>Here are some little experiments and 
+			projects that I have worked on. <br>This page is a work in progress.
 		</h3>
 	</div>
 
